@@ -1,2 +1,1 @@
-# jav
-# jav
+bash script Java Auto run 
