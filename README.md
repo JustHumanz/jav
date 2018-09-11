@@ -1,7 +1,9 @@
 bash script Java Auto run 
 
-Install 
+how to install
+
 sudo wget https://raw.githubusercontent.com/JustHumanz/jav/master/jav -P /usr/local/bin/
 
-Use 
+how to use 
+
 jav (your java program)
